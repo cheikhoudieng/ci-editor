@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <button style={{ backgroundColor: 'blue', color: 'white' }}>
+          bonjour bleur
+        </button>
       </header>
     </div>
   );
